@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KiviPaberKäärid</string>
+    <string name="start" />
+    <string name="rock">rock</string>
+    <string name="scissors">scissors</string>
+    <string name="paper">paper</string>
+    <string name="score">score0</string>
+    <string name="end">end</string>
+    <string name="human">human</string>
+    <string name="cpu">cpu</string>
+    <string name="again">again</string>
+</resources>
